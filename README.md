@@ -1,4 +1,4 @@
 # signature
-This project will be a easy way to add digital signitures in pdf
-also creating standard pdf(A/...) and 
+This project will be an easy way to create digital signitures.
 
+Signing process is confusing for those who dont have any background in this fild.
